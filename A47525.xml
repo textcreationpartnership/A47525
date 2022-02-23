@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortation to a personal and national repentance a sermon / preached at St. James Church, Westminster, Feb. 5, 1688/9 by Tho. Knaggs ...</title>
+            <author>Knaggs, Thomas, 1660 or 1-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47525</idno>
+            <idno type="STC">Wing K663</idno>
+            <idno type="STC">ESTC R36232</idno>
+            <idno type="EEBO-CITATION">15620042</idno>
+            <idno type="OCLC">ocm 15620042</idno>
+            <idno type="VID">104203</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104203)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1151:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortation to a personal and national repentance a sermon / preached at St. James Church, Westminster, Feb. 5, 1688/9 by Tho. Knaggs ...</title>
+                  <author>Knaggs, Thomas, 1660 or 1-1724.</author>
+               </titleStmt>
+               <extent>[2], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Barnes ... and sold by A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIX [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed at the request of several persons of quality."</note>
+                  <note>Half-title p. lacking. Beginning-p.7 from defective Huntington Library copy spliced at end.</note>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Mark VI, 12 --  Sermons.</term>
+               <term>Repentance.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104203:1"/>
+            <pb facs="tcp:104203:1" rendition="simple:additions"/>
+            <p>
+               <hi>An Exhortation to a Perſonal and National Repentance.</hi>
+            </p>
+            <p>A SERMON Preached at St <hi>James</hi> Church, <hi>Weſtminſter. Feb.</hi> 5. 1688/9.</p>
+            <p>By <hi>Tho. Knaggs,</hi> M. A. and Chaplain to the Right Honourable <hi>Ford</hi> Earl of <hi>Tankerville.</hi>
+            </p>
+            <p>
+               <hi>Printed at the Requeſt of ſeveral Perſons of Quality.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Barnes</hi> at the <hi>Crown</hi> in the <hi>Pall-mall,</hi> and Sold by <hi>A. Baldwin</hi> in <hi>Warwick-lane.</hi> M DC XCIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:104203:2"/>
+            <pb n="1" facs="tcp:104203:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>St. MARK vi. 12.</hi>
+                  </bibl> And they went out and preach'd that men ſhu'd repent.</q>
+            </epigraph>
+            <p>REpentance is a Doctrine which God preach<g ref="char:EOLhyphen"/>ed by the Mouth of all his Prophets. <hi>Noah</hi> to the old World, <hi>Lot</hi> to <hi>Sodom, Moſes</hi> to <hi>Egypt,</hi> Prophets in their ſeveral Gene<g ref="char:EOLhyphen"/>rations to <hi>Iſrael</hi> and <hi>Judah, John</hi> the <hi>Baptiſt</hi> to prepare the way for Chriſt, with a Sermon of that Subject, and Chriſt himſelf and all his A<g ref="char:EOLhyphen"/>poſtles preach'd, that men ſhould reform and amend their Lives. The ſubject they were en<g ref="char:EOLhyphen"/>joyn'd to preach on, was not of curious and nice matters, but of ſuch only as were profita<g ref="char:EOLhyphen"/>ble for the good of ſouls. <hi>They went out and
+<pb n="2" facs="tcp:104203:3"/>preach'd that men ſhu'd repent.</hi> That we at this time eſpecially may be ſtirred up to ſo great and neceſſary a duty, I will</p>
+            <p n="1">1. Shew, how joyful and well pleaſing it is to God, that men ſhould come to Repentance.</p>
+            <p>2ly, 'Tis acceptable to the Bleſſed An<g ref="char:EOLhyphen"/>gels.</p>
+            <p>3ly, 'Tis grateful to the Penitent himſelf.</p>
+            <p>4ly, Offer to your conſideration what great danger and unreaſonableneſs there is in impeni<g ref="char:EOLhyphen"/>tency, whether in particular Perſons or in a pub<g ref="char:EOLhyphen"/>lick Nation.</p>
+            <p>5ly, Shew the great advantage, profit, and benefit which redound to both of theſe, by a timely and early Repentance.</p>
+            <p>Laſtly, Shut up all, with an exhortation to that neceſſary Duty.</p>
+            <p>I begin with the firſt of theſe, how joyful and well pleaſing it is to God that Men ſhu'd come to Repentance. And</p>
+            <p n="1">1. Repentance is highly pleaſing to God, be<g ref="char:EOLhyphen"/>cauſe it deſtroys ſin, which of all things is moſt hateful to him. Sin makes a Separation between God and Man, puts a Diviſion between the
+<pb n="3" facs="tcp:104203:3"/>Creator and his Creature, blots out Gods Image, defaceth the beauty of the Creation, kindles a war between Heaven and Earth, grieves the Holy Spirit of God, and ſtrengthens the King<g ref="char:EOLhyphen"/>dom of the Prince of Darkneſs. Now <hi>when the wicked man turns from his wickedneſs, and doth that which is lawful and right,</hi> when the ſinner <hi>ceaſeth to do evil, and learneth to do well,</hi> leading the Remainder of his life in all godlineſs and ho<g ref="char:EOLhyphen"/>neſty, ſin in this penitent is then deſtroy'd, and his Converſion becomes highly pleaſing to God. For hereby God is glorify'd, a Soul ſaved, and the Grand Adverſary of Mankind the Devil, baf<g ref="char:EOLhyphen"/>fled and confounded.</p>
+            <p>2ly, Repentance is well pleaſing to God, be<g ref="char:EOLhyphen"/>cauſe it turns away his anger, and makes way for mercy, in which, of all other things, he moſt delights. This is <hi>over all his works.</hi> This <hi>rejoyceth</hi> againſt judgment, and in that Proclamation which he told <hi>M oſ,</hi> He wou'd <hi>make all his goodneſs to paſs before him,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 34.6, 7.</note> we find him thus delivering himſelf, <hi>the Lord, the Lord God merci<g ref="char:EOLhyphen"/>ful and gracious.</hi> This is the greateſt Jewel in his Crown, and therefore when a ſinner-comes to Re<g ref="char:EOLhyphen"/>pentance 'tis pleaſing to God, and gives an oc<g ref="char:EOLhyphen"/>caſion of Joy to him, in that his anger is turned away, and mercy is to take place, which of all his attributes he moſt delights in.</p>
+            <p>3ly, Repentance is well pleaſing to God, be<g ref="char:EOLhyphen"/>cauſe it fills Heaven with happy Souls, and en<g ref="char:EOLhyphen"/>creaſeth
+<pb n="4" facs="tcp:104203:4"/>the number of juſt men made perfect. All ſuch as die truly Penitent are bleſſed and happy; their Souls at the leaving of their bodies become as the Angels in Heaven, and are fellow partakers of thoſe <hi>pleaſures which are at Gods right hand for evermore.</hi>
+            </p>
+            <p>4ly, Repentance is well pleaſing to the whole bleſſed and glorious Trinity. God the Father, God the Son, and God the Holy Ghoſt, do all rejoyce when men break off their ſins by Repen<g ref="char:EOLhyphen"/>tance. And</p>
+            <p n="1">1. Repentance is pleaſing to God the Father. The Prodigal Son being mov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with a true and ſerious Repentance, return'd home after a Life ſpent in luxury and profuſeneſs. He aroſe and came to his Father, and ſaid, <hi>Father I have ſinned againſt Heaven and before thee, and am no more worthy to be called thy Son.</hi> And preſently the Fa<g ref="char:EOLhyphen"/>ther ſaw him, had compaſſion on him, and ran, and fell on his Neck and kiſſed him, the badge of love and reconciliation. For tho the Sons con<g ref="char:EOLhyphen"/>dition was poor and miſerable, his Crimes many, his Offences, of a deep die, and his Reception into his Father's favour unlikely, yet ſo prevalent and well pleaſing was his Repentance, that even that brought him into his Fathers favour again, and he that ſcarce hoped to be admitted as a Servant, is once more owned as a dear Son, <hi>Luke</hi> 15.22, 23, 24. <hi>The Father ſaid to his Servants, bring forth the beſt robe and put it on him, and put a ring on his
+<pb n="5" facs="tcp:104203:4"/>hand, and ſhoes on his feet, and bring hither the fat<g ref="char:EOLhyphen"/>ted calf and kill it, and let us eat and be mer<g ref="char:EOLhyphen"/>ry, for this my ſon was dead and is alive again: He was loſt and is found.</hi>
+            </p>
+            <p>2ly, Repentance has the ſame effect in God the Son. 'Tis a great ſatisfaction to him to ſee ſo good effect of his paſſion, that his blood was not ſhed in vain, that he was born, liv'd, and dy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to a good purpoſe, and all that he did and ſuf<g ref="char:EOLhyphen"/>fer'd for ſuch and ſuch Souls turn to a good ac<g ref="char:EOLhyphen"/>count. The Repentance of every ſinner is an<g ref="char:EOLhyphen"/>ſwering of Chriſts prayers, the ſatisfaction of his deſires, and the reward of his ſufferings. And therefore Repentance is pleaſing to God the Son, inaſmmch as that precious blood which he ſhed on the Croſs, was not ſhed in vain.</p>
+            <p>3ly, Repentance is well pleaſing to God the Holy Ghoſt. The Holy Ghoſt in Scripture is ſometimes call'd Spirit, and all thoſe o<g ref="char:EOLhyphen"/>perations whereby we pleaſe God, are term'd <hi>fruits of the earth, Gal.</hi> 5.22. Now Repentance embraceth all the good motions and inſpirations of that Holy Spirit, by which means the inſtru<g ref="char:EOLhyphen"/>ments of ſin are chang'd into his ſanctify'd Mem<g ref="char:EOLhyphen"/>bers, and his Holy Temples. By repentance a pe<g ref="char:EOLhyphen"/>nitent ſinner is made the <hi>Temple of God,</hi> in that <hi>the Spirit of God dwelleth in him holy unto God, an ha<g ref="char:EOLhyphen"/>bitation of God thro the Spirit.</hi> He <hi>is joyned to the Lord, one Spirit with him, a new Creature in Chriſt, and conformed to him. He lives in the Spirit and
+<pb n="6" facs="tcp:104203:5"/>walks in the Spirit.</hi> Thus the Spirit of God find<g ref="char:EOLhyphen"/>ing itſelf cheriſhed and kindly uſed, and all its good motions and inſpirations gratefully receiv'd, 'tis matter of joy and pleaſure to him. Thus Fa<g ref="char:EOLhyphen"/>ther, Son, and Holy Ghoſt are all hugely pleaſed when men repent and amend their lives. Who would not therefore forſake his ſins, renounce a wicked life, and ſtedfaſtly propoſe to become a new man, to occaſion delight and pleaſure in the ever bleſſed Trinity. If there was no other Ar<g ref="char:EOLhyphen"/>gument to ſtir us up to the duty of repentance, this, one would think, ſhould move us to it. And there<g ref="char:EOLhyphen"/>fore let us take care to behave our ſelves after ſuch a manner, that we commit nothing that ſhall be diſpleaſing to him, but always be doing that which ſhall be well pleaſing in his ſight. The beſt of us may bluſh to think how often we have done that which has occaſioned grief in the Court of Heaven. What odious ſcents ariſe thither daily from bloody murthers, beaſtly uncleanneſſes, and cruel oppreſſions, which, like the blood of <hi>Abel,</hi> cry aloud to Heaven for vengeance? Even ſins that grieve the Holy Spirit of God, and cauſe a ſadneſs in the bleſſed Trinity. For ſo ſure as Re<g ref="char:EOLhyphen"/>pentance pleaſeth God and cauſeth joy in Hea<g ref="char:EOLhyphen"/>ven, ſo certain it is that ſin continued in, and not repented of, gives occaſion of grief and ſadneſs to him.</p>
+            <p>2ly, Repentance is well pleaſing to the Bleſ<g ref="char:EOLhyphen"/>ſed Angels.
+<note place="margin">
+                  <hi>Luke</hi> 15.10.</note> 
+               <hi>There is joy in the preſence of the Angels of God over one ſinner that repenteth.</hi>
+               <pb n="7" facs="tcp:104203:5"/>Thoſe tears which run down the cheeks of a true penitent, are the Angels heavenly banquet. <hi>There ſhall be more joy in heaven over one ſinner that repents, than over ninety nine juſt perſons that need no repen<g ref="char:EOLhyphen"/>tance.</hi> But tho repentance be well pleaſing to the Bleſſed Angels, tho they are <hi>miniſtring ſpirits</hi> for our good, rejoyce at the converſion of a ſinner, do many good offices for the godly on earth, and be a communion between them, yet we are not to think that they interpoſe their Merits for us, and therefore we are to perform Religious Wor<g ref="char:EOLhyphen"/>ſhip to them. This is a fond conceit of the <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> the invention of mans brain, and wants warrant from the word of God. <hi>See thou do it not,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 22.9.</note> are expreſs words in Holy Scripture.</p>
+            <p>3ly, Repentance is matter of joy to the peni<g ref="char:EOLhyphen"/>tent himſelf. O what joy and tranquility of con<g ref="char:EOLhyphen"/>ſcience has that man, whoſe eyes are opened, and in whoſe heart by Gods Grace a change is wrought. And no wonder that he is ſo pleaſed with himſelf; for being ſenſible that he is with<g ref="char:EOLhyphen"/>drawn from ſin, and brought back again to God, that he who once was a ſervant of ſin, and run<g ref="char:EOLhyphen"/>ning headlong to perdition, is now a child of God, and making Proviſion for his immortal ſoul; theſe thoughts ſpeak comfortable things to him, and leaves upon his ſoul a a ſweet taſte, a plea<g ref="char:EOLhyphen"/>ſant reliſh. St. <hi>Auſtin,</hi> after his converſion, when he had repented and began a new life, made this ſad complaint, <hi>I have loved thee too late, O God, O thou beautiful Being, I have <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> too
+<pb n="8" facs="tcp:104203:6"/>late.</hi> He repented he had not ſerved God ſoon<g ref="char:EOLhyphen"/>er, that his converſion was ſo long delay'd, and that he was ſo long a beginning to be acquainted with God. <hi>How ſweet and delightful, O Lord, was it made to me preſently to want thoſe pleaſures of the world, which before I doted upon? Thou, O Lord, didſt caſt them out of my heart, and didſt thy ſelf enter in their place, which I find now to be more ſweet than all pleaſures and ſweetneſs it ſelf.</hi> Lib. 9. Conſ. ch. 1.</p>
+            <p>Thus having ſhewn how joyful and well plea<g ref="char:EOLhyphen"/>ſing it is to Father, Son and Holy Ghoſt, that men ſhu'd repent, how acceptable to the bleſſed Angels, and how grateful to the Penitent himſelf, I come</p>
+            <p>4thly, To offer to your conſideration what great Danger and Unreaſonableneſs there is in impenitency, whether in particular perſons, or in a publick Nation. And</p>
+            <p n="1">1. As to particular perſons. <hi>John</hi> the <hi>Baptiſt</hi> in his firſt Sermon exhorted his Auditors to <hi>bring forth fruits meet for Repentance.</hi> And <hi>except ye re<g ref="char:EOLhyphen"/>pent ye ſhall likewiſe periſh,</hi> was the Doctrine Chriſt preached to his Diſciples. Now the longer men delay their Repentance, the more they are har<g ref="char:EOLhyphen"/>dened in their corruptions, and confirmed in their ſins, and conſequently more indiſpos'd every day for that great and neceſſary work. The longer men live in ſin, the more ſtrongly they
+<pb n="9" facs="tcp:104203:6"/>are inclin'd to continue in it. Sin being once rooted in the Soul, the labour will be great in plucking it out. The young man in his Youth and Strength is apt to ſay that it is not yet time to buſie himſelf about Reformation and amend<g ref="char:EOLhyphen"/>ment of life, and that it will be ſoon enough to repent of his ſins when he comes to be old, and then, and not before, he'll become peni<g ref="char:EOLhyphen"/>tent and ſerious. But how know'ſt thou, O young man, that thou ſhalt live till old Age? Death is a tribute we all owe to Nature, and Experience teacheth us, that the young man is as ſuddenly taken away as the grey head. The ſtrongeſt man can call no time his own but the preſent. He cannot prolong his days as he pleaſeth. All his futurity is in the hands of God, and how he will diſpoſe of him, whether for life or death, he cannot tell. And yet, alas! how ſecurely do ſuch men live? How eagerly do they run through all the ſtages of their youth in a re<g ref="char:EOLhyphen"/>bellious obſtinate courſe, and commit ſin as if they were not fleſh and blood, ſubject to a dying ſtroak. Certainly nothing hath made more am<g ref="char:EOLhyphen"/>ple Harveſt for the Devil than the deſerring of Repentance upon ſuch a vain conſideration as this. For how often have many men lain down in their ſtrength at night, and that night has clos'd their Eyes, and ſent their Souls into ano<g ref="char:EOLhyphen"/>ther World, to anſwer for what they have done in this?</p>
+            <p>
+               <pb n="10" facs="tcp:104203:7"/>But ſuppoſe God, out of his unconceivable Mercy, doth not cut off a ſinner in the ſtrength of his years; ſuppoſe he lets him alone to live as he liſts, to walk in the ways of his heart, and in the ſight of his eyes, and therefore is reſolved to ſin on till old age overtakes him, yet I have three Arguments to lay down before him, which, if rightly conſidered, wou'd make him think, and bring him to a right underſtanding of himſelf.</p>
+            <p>Firſt, Repentance requires the ſtrength and vigour of our minds, and therefore 'tis a ſad de<g ref="char:EOLhyphen"/>ſign to lay all the ſins of our youth upon feeble old age. Our bodies are then decay'd, our limbs feeble, our underſtandings ſhatter'd, all the parts diſtemper'd, and our infirmities ſo ma<g ref="char:EOLhyphen"/>ny, that we are altogether incapable of every thing but dying. In the midſt of ſo many Di<g ref="char:EOLhyphen"/>ſtempers as old age brings along with it, 'twill be a difficult matter to go through with Repen<g ref="char:EOLhyphen"/>tance. For then pains are apt in an high mea<g ref="char:EOLhyphen"/>ſure to ſeize upon us, which will ſo diſturb our minds, and deprive us of the uſe of Reaſon, that we cannot pray to God with that fervency, or ſpread our fins before him with that hearty ſorrow that is requiſite to procure an abſolute pardon. Old Age is an unfit time to have the great work of Repentance to do; and there<g ref="char:EOLhyphen"/>fore my ſecond Argument, to ſhew the Danger and Unreaſonableneſs of putting it off till that time, is this.</p>
+            <p>
+               <pb n="11" facs="tcp:104203:7"/>Secondly, The little hopes they can have that God ſhu'd be pleas'd with thoſe men who ne<g ref="char:EOLhyphen"/>ver drew nigh to him by Repentance, till they themſelves were drawing near to the grave. Mankind muſt needs think the Almighty a tame Being, an eaſie God, if they perſwade them<g ref="char:EOLhyphen"/>ſelves that every ſin is as ſoon expiated as con<g ref="char:EOLhyphen"/>feſs'd. Let men have a care how they flatter themſelves with ſuch vain hopes as theſe. God, that ſearcheth the heart, who knows all things, and underſtands the greatneſs of our crimes, expects that our ſorrow for their commiſſion ſhu'd be greater than the delight and pleaſure we took in them. If a bare Acknowledgment and Confeſſion of ſin were enough to put it away, <hi>Judas</hi> might have as good a plea for him<g ref="char:EOLhyphen"/>ſelf as any Saint in Heaven, and might juſtly be plac'd in the Catalogue of Penitents. 'Tis very unreaſonable to believe that God ſhu'd be pleas'd with that mans Repentance, who never forſakes his ſins, till he had no more time left him to ſin in. There can be little of godly ſorrow in ſuch a Repentance, and as little hopes that it will be acceptable to God. I know there are two paſſages in Holy Scripture much read and remembred, and to which ſome men fly, as a refuge for a Death-bed Repentance. The firſt is that of the <hi>Labourers</hi> that came into the <hi>Vine<g ref="char:EOLhyphen"/>yard at the Eleventh hour,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 20.</note> and yet receiv'd <hi>Equal</hi> Wages with thoſe that had <hi>born the heat and burden of the day.</hi> But alas! this Example is miſ<g ref="char:EOLhyphen"/>us'd
+<pb n="12" facs="tcp:104203:8"/>and miſunderſtood, for theſe <hi>Labourers</hi> came in aſſoon as they were call'd; and the reaſon why they ſtood ſo long <hi>idle</hi> was, <hi>be<g ref="char:EOLhyphen"/>cauſe no man had hired them.</hi> Had work been offered them ſooner, they wu'd not have refus'd it Thay came in aſſoon as the <hi>Lord of the Vineyard</hi> commanded them, and therefore were not faulty. Beſides, that Para<g ref="char:EOLhyphen"/>ble of our Saviour's, relating to the <hi>Labourers,</hi> is rather a repreſentation of a <hi>Heathen</hi> man, that never heard of Chriſt till a little before his Death, whoſe late Converſion ſhall not render him unworthy of a full Reward. But this is a quite different caſe from Chriſtians, who made a Covenant with Chriſt in Baptiſm, and enter'd into vows and promiſes to ſerve him, <hi>to keep his holy will and commandments, and walk in the ſame all the days of their life.</hi> Who, notwith<g ref="char:EOLhyphen"/>ſtanding that Covenant, neglect to perform it all their life long, and do then only repent when they have no time left to repent in. He that came in at the Eleventh hour wronght one hour, but he who comes not in till the twelfth, the time of working then is paſt, and no re<g ref="char:EOLhyphen"/>ward in juſtice is to be expected where no ſervice is done.</p>
+            <p>The other inſtance which ſome men lay hold of to ſhew the validity of a Death bed Repen<g ref="char:EOLhyphen"/>tance,
+<note place="margin">
+                  <hi>St Luke</hi> 23</note> is that of the good Thief, who was ſav'd even at the laſt hour, and was in <hi>Paradice</hi> the ſame <hi>Day</hi> with Chriſt. This is brought as a
+<pb n="13" facs="tcp:104203:8"/>binding Argument by ſuch who put off their Repentance till the laſt hour. The Caſe is plainly thus: Chriſt was then at the point of Death, and therefore to manifeſt his power and glory, and to convince the World of his God<g ref="char:EOLhyphen"/>head, when even the Apoſtles themſelves either doubted, or did not believe it, did upon the Thiefs confeſſing it, and ſaying, <hi>Lord remember me when thou comeſt into thy Kingdom,</hi> make this Anſwer, <hi>Verily I ſay unto thee, to day thou ſhalt be with me in Paradice.</hi> This was a particular Act of Chriſt, and the whole of it miraculous, and ought not to be made a general rule; nor do we find in all the Bible the like promiſe made to any man. Becauſe Chriſt received the Thief into favour at the laſt hour, upon ſuch a wonderful Repentance and Faith as his was, therefore we may hope for the ſame, is a Dangerous Concluſion, and whoever doth it endangers the loſs of his Soul. It is not a bare ſorrow for ſin that brings us to Heaven, but a walking in newneſs of life, which inclines God to paſs by our former miſdoings. The Thief upon the Croſs had this purpoſe, which ſurely he would have put in execution, if Death had not prevented him Tho he was accepted be<g ref="char:EOLhyphen"/>cauſe he ador'd Chriſt when he ſaw him dying, there is no reaſon for other men to preſume for the like favour at the laſt hour, who have de<g ref="char:EOLhyphen"/>ſpis'd him now he is reigning in Heaven. If men will preſume to live profanely, becauſe they think 'tis poſſible they may dye as happily as
+<pb n="14" facs="tcp:104203:9"/>that Thief did, then he may murder more ſouls by his Repentance, than ever he did bodies in all the Robberies that ever he committed. See<g ref="char:EOLhyphen"/>ing then there is great hazard and danger in late Repentance, it is our wiſeſt way to make it an early buſineſs, and ſo to live, that when we come to die, our Souls may be receiv'd into Heaven, that where Chriſt is, there they may be alſo.</p>
+            <p>Thirdly, The danger and unreaſonableneſs of im<g ref="char:EOLhyphen"/>penitency will appear in this. Some there are, when ſickneſs and pain ſeize them, then they reſolve againſt their ſins, and purpoſe to be ho<g ref="char:EOLhyphen"/>ly and good men, if God will be ſo merciful as to reſtore them to their former health, and ſet them upon their Legs again. Purpoſe and Reſo<g ref="char:EOLhyphen"/>lution are indeed very neceſſary towards Re<g ref="char:EOLhyphen"/>pentance, but are moſt lame and imperfect, and ſignify nothing without performance and conſum<g ref="char:EOLhyphen"/>mation. He that reſolves againſt his ſins when he is ſick, and after God has reſtor'd him to health, ſins as much as before, is a vain man, but no true penitent. To reſolve to repent, and not to re<g ref="char:EOLhyphen"/>pent, is to break our reſolution and faith, to mock God, and to play at faſt and looſe with the Almighty. To ſee a man in his ſickneſs ſmiting on his breaſt, and complaining of the wickedneſs of his heart, and ſeeming ſo ſorry for it, that one who ſees or hears him wu'd think his heart is broke within him, and yet aſ<g ref="char:EOLhyphen"/>ſoon as he is well again to take no care to lead
+<pb n="15" facs="tcp:104203:9"/>the reſidue of his life either in the fear, or to the glory of God. Such a mock Devotion, ſuch a pang of Piety will be ſo far from appeaſing the Almighty, or diſpoſing the man for pardon, that it even juſtifies the ſentence of Condemna<g ref="char:EOLhyphen"/>tion out of his own mouth. The promiſes we make to God of Amendment of life are due debt. The promiſe one man makes to another may be made good either one time or other, either in his life time by himſelf, or after his Death by one that he ſhall appoint: But if we make a promiſe to God of Amendment and Reformation, we ought to do it ourſelves. This is a concern that cannot be left to the care of an Executor to perform for us when we are dead and gone. He who ſays I do repent, but turns to his ſins again, repents of his Repentance, and makes his latter end worſe than his beginning. For a man to be truly penitent he muſt lament his ſins, in lamenting he muſt puniſh them, in puniſhing he muſt hate them; and that this ſeverity may not be counterfeit, it muſt laſt as long as he lives. A forſaking our ſins with a perſeverance in all that is good muſt be the certain proof of the truth of our Repentance. From the danger there is in impenitency as to particular perſons, let us paſs to that of a pub<g ref="char:EOLhyphen"/>lick Nation.</p>
+            <p>
+               <pb n="16" facs="tcp:104203:10"/>
+               <hi>Jeruſalem</hi> wu'd not know her day. Chriſt gave the Jewiſh Nation many years time for Repentance, yet ſuch a ſtrange and incorrigible a people they were, that neither mercies nor judgments cu'd work upon them, to amend and alter their courſe of living. The very Pro<g ref="char:EOLhyphen"/>phets that call'd upon them to repent, they kill'd and ſton'd. Nay, ſo obſtinate a people they were that tho God ſent his Son to preach Repen<g ref="char:EOLhyphen"/>tance to them, and warn'd them from continu<g ref="char:EOLhyphen"/>ing in their wickedneſs, yet they ſtill ad<g ref="char:EOLhyphen"/>ded iniquity to iniquity, and at laſt put to death the Lord of Life. Not long after God deſtroy'd them for their ſins, and laid the Axe of his Judgments at the root of their Tree, and hew'd them down from ever being a Nation more. Thus the <hi>Jewiſh</hi> Nation fell by impeni<g ref="char:EOLhyphen"/>tency, and 'tis too much to be feared that ours is much in the ſame poſture now as theirs was, when God came upon them with a total de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>The <hi>Jews</hi> were a divided people, and had ſe<g ref="char:EOLhyphen"/>veral factions both in <hi>Church</hi> and <hi>State. Pro<g ref="char:EOLhyphen"/>faneneſs</hi> on the one hand, and <hi>Hypocriſie</hi> on the other, did act and command in a furious manner among them. In this ſtate was the <hi>Jew<g ref="char:EOLhyphen"/>iſh</hi> Nation, when God ſent down his Judg<g ref="char:EOLhyphen"/>ments upon them. And now let us caſt an Eye home. Are not we as divided a people as the <hi>Jews</hi> were? Are not we as factious as they?
+<pb n="17" facs="tcp:104203:10"/>Are not we as factious as they? And do not Vice, Prophaneneſs and Hypocriſie, reign as much among us, as that they did among the <hi>Jews?</hi> Your preachers have cry'd aloud, and told you the danger of living in your ſins, but you have not hearkned unto them. God ſent the Peſtilence, but we repented not. He kindled a fire, which burnt our great City, and turn'd it into Aſhes, but we fear'd not his Judgments. We have been embroyl'd in ſeveral Wars, but none of them have better'd, chang'd, or re<g ref="char:EOLhyphen"/>form'd us. And therefore what can any man imagin ſhu'd follow ſuch deſpiſed ſigns as God has ſent to warn us from our ſins but wrath and indignation from Heaven? Without a mi<g ref="char:EOLhyphen"/>raculous mercy, what can we look for, but that God ſhu'd utterly deſtroy us, throw us away in his anger, and trouble himſelf no more with us. And therefore to prevent the Judgments of God, which may juſtly fall upon us for our ſins, whe<g ref="char:EOLhyphen"/>ther in particular perſons, or in a publick Nati<g ref="char:EOLhyphen"/>on, I come</p>
+            <p>Fifthly, To ſhew the great advantage, pro<g ref="char:EOLhyphen"/>fit, and benefit that redound to both by Reforma<g ref="char:EOLhyphen"/>tion and Amendment.</p>
+            <p>Repentance, of all things in the world, makes the greateſt change. It changeth profligate and vicious perſons into ſober and virtuous. It changeth the licentious into ſtrict and regular
+<pb n="18" facs="tcp:104203:11"/>livers. It changeth the whole man from ſin to grace, and from wicked habits to pious and godly cuſtomes. Nay, ſo great is the Efficacy of Repentance, and ſo much doth it redound to the profit and advantage of every penitent, that God himſelf is pleas'd, by deſcending to our weak underſtandings, to ſay that he chang<g ref="char:EOLhyphen"/>eth alſo upon mans Repentance. This moves him to alter his Decrees, to revoke his Sen<g ref="char:EOLhyphen"/>tence, to cancel his bills of Accuſation, and to put a ſtop to Divine Vengeance. A particular perſon by Repentance may remove a particu<g ref="char:EOLhyphen"/>lar Judgment from himſelf. <hi>Ahab</hi>'s humbling himſelf turned away the anger of God, and made the Divine Vengeance walk as <hi>ſoftly</hi> as he did, 1 <hi>Kings</hi> 21.27. This is the only thing that is wanting both in private and publick, and wu'd ſet both at rights. Hath God a con<g ref="char:EOLhyphen"/>troverſie with a Nation, Repentance will tye up his hands from ſtriking? <hi>At what inſtant I ſhall ſpeak concerning a Nation and concerning a Kingdom,
+<note place="margin">
+                     <hi>Jer.</hi> 18.7, 8.</note> to pluck up and to pull down, and to deſtroy it. If that Nation againſt whom I have pronounc'd turn from their Evil, I will repent<g ref="char:punc">▪</g> of the Evil that I thought to do unto them.</hi> So likewiſe God dealt with <hi>Niniveh,</hi>
+               <note place="margin">
+                  <hi>Jon.</hi> 3.</note> for though he had reſolved to deſtroy that great City, yet they repenting in <hi>Sackcloath and Aſhes,</hi> ſtopt the pro<g ref="char:EOLhyphen"/>ceedings of God Juſtice againſt them, and by their amendment prevented that puniſhment he deſign'd to have brought upon them. And
+<pb n="19" facs="tcp:104203:11"/>'tis the Prophet <hi>Hoſea</hi>'s exhortation to the peo<g ref="char:EOLhyphen"/>ple whom God had viſited with ſeveral judg<g ref="char:EOLhyphen"/>ments, <hi>Come, and let us return unto the Lord,
+<note place="margin">
+                     <hi>Hoſ.</hi> 6.1.</note> for he hath ſpoiled us, and he will heal us, he hath wounded us, and he will bind us up again.</hi> What's to be done then to prolong Gods Mercy, and keep off his Judgments? Even this, that all of us from the higheſt to the loweſt wn'd a<g ref="char:EOLhyphen"/>mend our lives and become new men. For then, and not till then, muſt we expect Gods bleſ<g ref="char:EOLhyphen"/>ſing upon us. 'Tis a common complaint the times are bad, and 'tis a great wonder they are not worſe, for unleſs men mend, the times will not. 'Tis bad men which make bad times. The times are juſt as men are, for they grow good or bad as men do. What an Age of Virtue ſhu'd we ſee, if men of dignity and honour, birth and fortune, wu'd be as <hi>good</hi> as they are <hi>great.</hi> Men of lower rank wu'd be aſham'd and afraid to ſin, if men of high Titles and long Pe<g ref="char:EOLhyphen"/>digree wu'd give good Examples, and offer themſelves to the World for Patterns of life and converſation. <hi>He that is in Honour, and underſtands not, is like the beaſts that periſh,</hi> Pſal. 49.20. The Temple of Honour and the Temple of Vir<g ref="char:EOLhyphen"/>tue were ſo plac'd at <hi>Rome,</hi> that no man cu'd enter the Temple of Honour, unleſs he paſs'd through the Temple of Virtue; which was a ſignification to the <hi>Romans</hi> that the way to Honour was only by virtue. But alas! High and Low, Rich and Poor, have ſinn'd againſt
+<pb n="20" facs="tcp:104203:12"/>God, and he has reaſon enough to be angry with all Orders and Degrees of men. Thoſe fearful Oaths, thoſe grievous Blaſphemies, and other Debaucheries with which our Nation is defil'd, I now tell you with an afflicted Soul, that theſe ſins cry aloud to Heaven for Venge<g ref="char:EOLhyphen"/>ance. When men begin to reſemble <hi>Sodom</hi> in her ſins, what muſt we look for but <hi>Sodom</hi>'s puniſhment. God rain'd down fire and brim<g ref="char:EOLhyphen"/>ſtone from Heaven upon <hi>Sodom</hi> and <hi>Gomor<g ref="char:EOLhyphen"/>rha.</hi> An <hi>
+                  <g ref="char:V">Ʋ</g>nnatural</hi> Judgment for fire to de<g ref="char:EOLhyphen"/>ſcend downward, but we read before of their <hi>
+                  <g ref="char:V">Ʋ</g>nnatural</hi> Sin, they burn'd inwardly with the fire of an <hi>
+                  <g ref="char:V">Ʋ</g>nnatural</hi> Luſt. If the ſame ſins be committed now which procur'd thoſe diſmal Judgments, we are then liable to the ſame, and if Repentance ſtep not in, may expect the like puniſhment. Uncleanneſs was one of the ſins of <hi>Sodom,</hi> and I wou'd to God I cu'd ſay it was not one of the ſins of <hi>England</hi> too. We are too like <hi>Sodom</hi> in her ſins, I pray God keep us from <hi>Sodom</hi>'s puniſhment. For the Sin of Unclean<g ref="char:EOLhyphen"/>neſs <hi>three and twenty thouſand of Iſrael were cut off in one day,</hi> 1 Cor. 10.8. For this ſin <hi>David</hi> was plagu'd with the violation of his Wives, the murder of his Children, and the Rebellion of his Subjects. This ſin has pull'd down many flouriſhing Kingdoms, deſtroy'd the Bodies, diſ<g ref="char:EOLhyphen"/>grac'd the Names, and overthrown the Eſtates of many men. I wu'd to God I cu'd perſwade that ſort of offenders throughly to judge them<g ref="char:EOLhyphen"/>ſelves
+<pb n="21" facs="tcp:104203:12"/>here, that they may prevent the dread<g ref="char:EOLhyphen"/>ful Judgment of God hereafter God will judge all men. All ſinners as well as they muſt come to judgment, but the ſin of Uncleanneſs, as St. <hi>Paul, Heb.</hi> 13.4. ſeems to intimate, he will more particularly judge, and be a ſure avenger of all ſuch wickedneſs. <hi>If any man defile the Temple of God, him ſhall God deſtroy.</hi> 1 Cor. 3.17. We are the Temples of the Holy Ghoſt, to violate which, is to caſt the Holy Ghoſt out of them, and to make our Bodies which are Chriſt's Members, the Members of an Har<g ref="char:EOLhyphen"/>lot. 1 <hi>Cor.</hi> 6. Heaven is a place of Purity, wherein no impure thing can enter, and there<g ref="char:EOLhyphen"/>fore they who go out of this world with the ſin of uncleanneſs about them unrepented of, will be fit Company only for Satan and his An<g ref="char:EOLhyphen"/>gels, where <hi>their flames of Luſt ſhall meet with flames of Fire.</hi>
+            </p>
+            <p>To conclude. Repent, and the whole Court of Heaven will be glad and rejoyce at your Converſion. God the Father with Arms of Mercy will meet the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eturning Prodigal and receive him with kiſſes. God the Son that dy'd for him, will at his death welcome him into E<g ref="char:EOLhyphen"/>verlaſting Habitations. God the Holy Choſt ſhall preſent him wiping off his Tears. The Holy, Bleſſed, and Glorious Trinity, in the pre<g ref="char:EOLhyphen"/>ſence of Saints and Angels with loud acclama<g ref="char:EOLhyphen"/>tions, will receive him, and bid him welcome,
+<pb n="23" facs="tcp:104203:13"/>with a Well done thou good and faithful Servant. <hi>Almighty everlaſting God, who hateſt nothing that thou haſt made, and doſt forgive the ſins of all them that are penitent, create and make in us new and contrite hearts, that we worthily lamenting our ſins, and acknowledging our wretchedneſs, may obtain of the God of all Mercy, perfect remſſion and forgive<g ref="char:EOLhyphen"/>neſs through Jeſus Chriſt our Lord, to whom with the Father and the Holy Ghost, be all Honour and Glory.</hi>
+            </p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:104203:13"/>
+            <head>ADVERTISEMENT.</head>
+            <list>
+               <item>
+                  <g ref="char:dtristar">*⁎*</g> The Stage Acquitted. Being a full anſwer to Mr <hi>Collier,</hi> and the other Enemies of the Dra<g ref="char:EOLhyphen"/>ma. With a vindication of King <hi>Charles</hi> the Martyr, and the Clergy of the Church of <hi>England,</hi> from the abuſes of a Scurrilous Book, called, <hi>The Stage Condemned.</hi> To which is added, the Cha<g ref="char:EOLhyphen"/>racter of the Animadverter, and the Animadver<g ref="char:EOLhyphen"/>ſions on Mr <hi>Congreve</hi>'s Anſwer to Mr <hi>Collier.</hi> Print<g ref="char:EOLhyphen"/>for <hi>John Barnes</hi> at the <hi>Crown</hi> in the <hi>Pall Mall,</hi> and ſold by <hi>M Gilliflower</hi> in <hi>Weſtminſter-hall, D. Brown</hi> near <hi>Temple-bar,</hi> and <hi>R. Parker</hi> at the <hi>Royal Exchange.</hi>
+               </item>
+               <item>† <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> † The Writing Maſters Aſſiſtance: a new Copy Book, written and adorn'd with variety of Command of Hands. By <hi>Robert More,</hi> Wri<g ref="char:EOLhyphen"/>ting Maſter, at the <hi>Golden Pen</hi> in <hi>Caſtle Street,</hi> near the <hi>Meuſe, Charing-croſs.</hi> Sold by the Au<g ref="char:EOLhyphen"/>thor, and <hi>John Barnes</hi> at the <hi>Crown</hi> in the <hi>Pall Mall.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:104203:14" rendition="simple:additions"/>
+            <head>ADVERTISEEENT.</head>
+            <p>THE Large <hi>Greek Teſtament</hi> in Folio, with <hi>Variae Lectiones,</hi> is now near finiſhed at the <hi>Theatre</hi> in <hi>Oxon:</hi> To which is added the <hi>Greek Scholia,</hi> Collected from all the <hi>Fathers; toge<g ref="char:EOLhyphen"/>ther with the Names and Pages of the Authors, ſet at their reſpe<g ref="char:EOLhyphen"/>ctive Quotations;</hi> compared with the Authors themſelves, by the Learned Mr. <hi>Grabe.</hi> This Work was peruſed and recom<g ref="char:EOLhyphen"/>mended by Biſhop <hi>Pearſon,</hi> and Biſhop <hi>Fell,</hi> in their Life-time; and alſo by many eminent Divines now living. It is adorned with twenty Copper-Plates, Engraved by the beſt Hands, from them deſigned by Order of the <hi>French</hi> King.</p>
+            <p>
+               <hi>Dyoniſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s Halioarnaſſe us,</hi> put out by Dr. <hi>Hudſon,</hi> Keeper of the <hi>Bodletan Library.</hi> The Chronology by the Learned Mr. <hi>Dodwel.</hi> With great Improvements from the <hi>Vatican,</hi> and other Mſs. With Additions never extant in any other E<g ref="char:EOLhyphen"/>dition. A great Part of this Work is likewiſe printed.</p>
+            <p>Thoſe who think fit to encourage theſe Works, are deſired to ſend their Subſcriptions, (being only 5 <hi>s.</hi> to each) to the Undertaker <hi>Tho. Bennet,</hi> at the <hi>Half Moon</hi> in St. <hi>Paul</hi>'s Church-Yard, before the 18th of <hi>December</hi> next; becauſe a Catalogue will be added to them, of the <hi>Encouragers</hi> for Printing <hi>Greek</hi> Books in <hi>England.</hi>
+            </p>
+            <list>
+               <head>
+                  <hi>Printed for</hi> Tho. Bennet.</head>
+               <item>Thirty Six Sermons and Diſcourſes upon ſeveral Occaſions, by <hi>R. South,</hi> D. D. In Three Volumes.</item>
+               <item>The Certainty and Neceſſity of the Chriſtian Revelation. By <hi>F. Gaſtrell,</hi> D. D. Preacher to the Honourable Society of <hi>Lincoln</hi>'s-<hi>Inn,</hi> 80.</item>
+               <item>
+                  <hi>Pſyche,</hi> or Love's Myſtery. In 24 Canto's. By the late Re<g ref="char:EOLhyphen"/>verend Dr. <hi>Beaumont, Regius</hi> Profeſſor of Divinity, and Maſter of St. <hi>Peter</hi>'s College, <hi>Cambridge.</hi> Printed at the Univerſity-Preſs.</item>
+               <item>
+                  <hi>Irenaei Opera,</hi> Fol. <hi>Greek</hi> and <hi>Latin.</hi> Put out by the Reve<g ref="char:EOLhyphen"/>rend Mr. <hi>Grabe.</hi> Printed at <hi>Oxon.</hi>
+               </item>
+               <item>The Expoſition of the ſecond Article of our Religion, given by the Lord Biſhop of <hi>Sarum;</hi> Examined.</item>
+               <item>A Vindication of the 23d Article of the Church of <hi>England,</hi> from a late Expoſition aſcribed to the Lord Biſhop of <hi>Sarum.</hi>
+               </item>
+               <item>An Account of the Court of <hi>Portugal,</hi> under the Reign of the preſent King. 80.</item>
+            </list>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:104203:14"/>
+            <p>Mr <hi>KNAGGS</hi> SERMON Preached at St <hi>James</hi> Church, <hi>Weſtminſter, Feb.</hi> 5. 1688/9.</p>
+            <pb facs="tcp:104203:15"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:104203:15"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:104203:16"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:104203:16"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:104203:17"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:104203:17"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:104203:18"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:104203:18"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:104203:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:104203:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
